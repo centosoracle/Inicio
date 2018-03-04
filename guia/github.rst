@@ -6,7 +6,7 @@ Esto tambien le sirve para que vayan viendo el documento en "rst", vayan corrihi
 
 Copien desde GitHub la ruta del repositorio.
 
-.. figure:: ../github/images/01.png
+.. figure:: ../images/github/01.png
 
 Esto lo vamos hacer siempre desde un terminal en Linux.
 
