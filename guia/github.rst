@@ -68,8 +68,30 @@ Luego que ustedes ya tengan el repositorio en local lo pueden editar con el edit
 
 	$ vi guia/github.rst
 
-luego de gurdar los cambios, con los comando de git, vamos a indicarle que agregue todos los archivo que han sido modificados.
+luego de gurdar los cambios, con los comando de git, vamos a indicarle que agregue todos los archivo que han sido modificados.::
 
+	$ git add *
+
+
+Ahora debemos confirmar las modificaciones con un "commit".::
+
+	$ git commit -m "Actualizacion de CGG"
+	[master ab32eef] Actualizacion de CGG
+	 1 file changed, 11 insertions(+)
+
+Ya el repositorio local esta listo para mandar las modificaciones al repositorio de Github y para eso hacemos.::
+
+	$ git push origin master
+	Username for 'https://github.com': centosoracle
+	Password for 'https://centosoracle@github.com': 
+	Counting objects: 4, done.
+	Delta compression using up to 4 threads.
+	Compressing objects: 100% (4/4), done.
+	Writing objects: 100% (4/4), 689 bytes | 0 bytes/s, done.
+	Total 4 (delta 1), reused 0 (delta 0)
+	remote: Resolving deltas: 100% (1/1), completed with 1 local object.
+	To https://github.com/centosoracle/Inicio.git
+	   7ecee39..ab32eef  master -> master
 
 
 
