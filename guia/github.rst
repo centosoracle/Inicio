@@ -73,7 +73,7 @@ luego de gurdar los cambios, con los comando de git, vamos a indicarle que agreg
 	$ git add *
 
 
-Ahora debemos confirmar las modificaciones con un "commit".::
+Ahora debemos confirmar las modificaciones con un "commit", siempre es bueno en el commit colocar quien realizo el cambio, por si existe un error podamos reversar al archivo a la version anterior.::
 
 	$ git commit -m "Actualizacion de CGG"
 	[master ab32eef] Actualizacion de CGG
