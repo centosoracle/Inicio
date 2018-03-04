@@ -61,6 +61,17 @@ Github necesita saber quienes estan autorizado para subir informacion y para log
 .. figure:: ../images/github/06.png
 
 
+Como subir modificaciones locales al Repositorio de GitHub
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+Luego que ustedes ya tengan el repositorio en local lo pueden editar con el editor de su preferencia.::
+
+	$ vi guia/github.rst
+
+luego de gurdar los cambios, con los comando de git, vamos a indicarle que agregue todos los archivo que han sido modificados.
+
+
+
 
 
 
