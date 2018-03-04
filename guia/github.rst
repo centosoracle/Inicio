@@ -44,7 +44,7 @@ Como hacer que GitHub acepte nuestras modificaciones
 Vamos a configurar nuestro equipo local para que podamos tener sincronizado nuestros repositorios contra el Github. Esto es lo que nos permitira hacer modificaciones en nuestros equipos "repositorios locales" y subirlo al Github "Repositorio de Github"
 
 
-Github necesita saber quienes estan autorizado para subir informacion y para lograr eso lo hace gracias a las llaves publicas "Si no sabemos como se crean las llaves publicas, sigue este procedimiento que aun no esta creado...!!! ", pero si saben hagamos lo sigueinte, no lo voy a explicar solo dejo las imagenes.
+Github necesita saber quienes estan autorizado para subir informacion y para lograr eso lo hace gracias a las llaves publicas "Si no sabemos como se crean las llaves publicas, sigue este procedimiento https://github.com/centosoracle/Inicio/blob/master/guia/llavepublica.rst ...!!! ", pero si saben hagamos lo sigueinte, no lo voy a explicar solo dejo las imagenes.
 
 .. figure:: ../images/github/02.png
 
