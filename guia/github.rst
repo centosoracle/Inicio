@@ -93,6 +93,8 @@ Ya el repositorio local esta listo para mandar las modificaciones al repositorio
 	To https://github.com/centosoracle/Inicio.git
 	   7ecee39..ab32eef  master -> master
 
+Y ya podran ver sus cambios realizados en la pagina de Github
+
 
 
 
