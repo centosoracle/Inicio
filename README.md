@@ -12,4 +12,6 @@
 
 * Quinto, Tendremos una documentación en GitHub y todos seremos colaboradores.
 
-* Sexto, todo lo que documentemos sera en formato "rst" para publicarlo en Github, vean este link para que vea como se debe preformatear los archivos en "rst" https://es.wikipedia.org/wiki/ReStructuredText
+* Sexto, todo lo que documentemos sera en formato "rst" para publicarlo en Github, vean este link para que vea como se debe  preformatear los archivos en "rst" https://es.wikipedia.org/wiki/ReStructuredText
+
+* [Algo de GitHub](guia/github.rst)
