@@ -78,11 +78,11 @@ luego de guardar los cambios, con los comando de git, vamos a indicarle que agre
 
 	$ git add *
 
-***********************************************************************************************************************
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 	Yorman, aqui despues que ejecutas el comando anterior pide que se configure un correo y un nombre,
 	por favor, toma print screen y pegalo aqui, no se todavia como se hace lo de las imagenes hay que preguntarle a
 	carlos o lo averiguamos en san google
-***********************************************************************************************************************
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
 
 Ahora debemos confirmar las modificaciones con un "commit", siempre es bueno en el commit colocar quien realizo el cambio, por si existe un error podamos reversar al archivo a la version anterior.::
 
