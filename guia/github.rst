@@ -1,7 +1,7 @@
 Algo de GitHub
 ==============
 
-Esto tambien le sirve para que vayan viendo el documento en "rst", vayan corrihiendo los errores de hortografiA
+Esto tambien le sirve para que vayan viendo el documento en "rst", vayan corrigiendo los errores de hortografiA
 
 Como descargar el Repositorio de GitHub a local
 +++++++++++++++++++++++++++++++++++++++++++++++
