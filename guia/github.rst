@@ -21,6 +21,12 @@ Ingresamos al direcctorio.::
 
 	$ cd centosoracle
 
+Luego instale:
+
+	# apt-get update
+	# apt install git-hub
+	# exit
+
 Ahora vamos a prepara dicho directorio para que descargue el repositorio de Githup.::
 
 	$ git init
@@ -68,10 +74,15 @@ Luego que ustedes ya tengan el repositorio en local lo pueden editar con el edit
 
 	$ vi guia/github.rst
 
-luego de gurdar los cambios, con los comando de git, vamos a indicarle que agregue todos los archivo que han sido modificados.::
+luego de guardar los cambios, con los comando de git, vamos a indicarle que agregue todos los archivo que han sido modificados.::
 
 	$ git add *
 
+***********************************************************************************************************************
+	Yorman, aqui despues que ejecutas el comando anterior pide que se configure un correo y un nombre,
+	por favor, toma print screen y pegalo aqui, no se todavia como se hace lo de las imagenes hay que preguntarle a
+	carlos o lo averiguamos en san google
+***********************************************************************************************************************
 
 Ahora debemos confirmar las modificaciones con un "commit", siempre es bueno en el commit colocar quien realizo el cambio, por si existe un error podamos reversar al archivo a la version anterior.::
 
