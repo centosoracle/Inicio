@@ -23,14 +23,14 @@ Ingresamos al direcctorio.::
 
 Luego instale (solo para debian o Ubuntu):
 
-	# apt-get update
-	# apt install git-hub
-	# exit
+::	# apt-get update
+::	# apt install git-hub
+::	# exit
 
 
 Para instalar en Centos7, sigue este tutorial:
 
-	https://www.digitalocean.com/community/tutorials/how-to-install-git-on-centos-7
+::	https://www.digitalocean.com/community/tutorials/how-to-install-git-on-centos-7
 
 Ahora vamos a prepara dicho directorio para que descargue el repositorio de Githup.::
 
@@ -87,6 +87,7 @@ Debemos decirle a GITHUB quien esta modificando, para esto seguimos los comandos
 
 
 .. figure:: ../images/github/07.png
+
 
 
 
