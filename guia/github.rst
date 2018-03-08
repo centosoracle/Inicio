@@ -22,13 +22,7 @@ Ingresamos al direcctorio.::
 	$ cd centosoracle
 
 
-Mira este ejemplo, el doble dos puntos se coloca al final y luego es que colocas lo que tu quieres, pero tabulandolo.::
-
-	$ ls
-	$ cp
-	$ mkdir
-
-Luego instale (solo para debian o Ubuntu).::
+Luego instalar (solo para debian o Ubuntu).::
 
 	# apt-get update
 
