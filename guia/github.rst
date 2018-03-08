@@ -1,4 +1,4 @@
-Algo de GitHub
+Algo de GitHub, Jose Blanco
 ==============
 
 Esto tambien le sirve para que vayan viendo el documento en "rst", vayan corrigiendo los errores de hortografiA
@@ -21,11 +21,16 @@ Ingresamos al direcctorio.::
 
 	$ cd centosoracle
 
-Luego instale:
+Luego instale (solo para debian o Ubuntu):
 
 	# apt-get update
 	# apt install git-hub
 	# exit
+
+
+Para instalar en Centos7, sigue este tutorial:
+
+	https://www.digitalocean.com/community/tutorials/how-to-install-git-on-centos-7
 
 Ahora vamos a prepara dicho directorio para que descargue el repositorio de Githup.::
 
@@ -78,11 +83,10 @@ luego de guardar los cambios, con los comando de git, vamos a indicarle que agre
 
 	$ git add *
 
-Este mensaje es el que tu querias colocar.::
+Debemos decirle a GITHUB quien esta modificando, para esto seguimos los comandos de la imagen:
 
-	Yorman aqui despues que ejecutas el comando anterior pide que se configure un correo y un nombre,
-	por favor, toma print screen y pegalo aqui, no se todavia como se hace lo de las imagenes hay que preguntarle a
-	carlos o lo averiguamos en san google
+.. figure:: ../images/github/07.pn
+
 
 Ahora debemos confirmar las modificaciones con un "commit", siempre es bueno en el commit colocar quien realizo el cambio, por si existe un error podamos reversar al archivo a la version anterior.::
 
