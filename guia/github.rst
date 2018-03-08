@@ -85,7 +85,7 @@ luego de guardar los cambios, con los comando de git, vamos a indicarle que agre
 
 Debemos decirle a GITHUB quien esta modificando, para esto seguimos los comandos de la imagen:
 
-.. figure:: /home/jblanc/Documentos/centosoracle/images/github/07.pn
+.. figure:: ../images/github/07.png
 
 
 Ahora debemos confirmar las modificaciones con un "commit", siempre es bueno en el commit colocar quien realizo el cambio, por si existe un error podamos reversar al archivo a la version anterior.::
