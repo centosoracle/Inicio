@@ -1,4 +1,4 @@
-Algo de GitHub, Jose Blanco
+Algo de GitHub
 ==============
 
 Esto tambien le sirve para que vayan viendo el documento en "rst", vayan corrigiendo los errores de hortografiA
@@ -28,18 +28,20 @@ Mira este ejemplo, el doble dos puntos se coloca al final y luego es que colocas
 	$ cp
 	$ mkdir
 
-Luego instale (solo para debian o Ubuntu):
+Luego instale (solo para debian o Ubuntu).::
 
-::	# apt-get update
+	# apt-get update
 
-::	# apt install git-hub
+	# apt install git-hub
 
-::	# exit
+	# exit
 
 
 Para instalar en Centos7, sigue este tutorial.::
 
+
 	https://www.digitalocean.com/community/tutorials/how-to-install-git-on-centos-7
+
 
 Ahora vamos a prepara dicho directorio para que descargue el repositorio de Githup.::
 
